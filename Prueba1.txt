@@ -1,2 +1,7 @@
 REMOTOS
+<<<<<<< segundarama
 rebase
+=======
+
+ejemplos
+>>>>>>> Tercer commit
